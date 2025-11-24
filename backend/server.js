@@ -17,6 +17,10 @@ app.use('/api/emails', require('./routes/emails'));
 app.use('/api/prompts', require('./routes/prompts'));
 app.use('/api/drafts', require('./routes/drafts'));
 
+app.get('/', (req, res) => {
+    res.send('📧 Welcome to the Email Productivity Agent API');
+});
+
 app.get('/api/health', (req, res) => {
     res.json({
         status: 'OK',
