@@ -1,0 +1,137 @@
+[
+  {
+    "id": "email_001",
+    "sender": "john.doe@company.com",
+    "sender_name": "John Doe",
+    "subject": "Project Deadline - Action Required",
+    "body": "Hi Team,\n\nWe need to finalize the Q4 report by Friday, December 1st. Please review the attached draft and send your feedback by Wednesday.\n\nAlso, we need to schedule a meeting to discuss next quarter's priorities.\n\nThanks,\nJohn",
+    "timestamp": "2024-11-20T09:30:00Z",
+    "has_attachments": true
+  },
+  {
+    "id": "email_002",
+    "sender": "newsletter@techweekly.com",
+    "sender_name": "Tech Weekly Newsletter",
+    "subject": "Your Weekly Tech Digest - AI Trends 2024",
+    "body": "Hello Subscriber,\n\nThis week's top stories:\n- AI breakthroughs in healthcare\n- New programming frameworks\n- Cybersecurity updates\n\nRead more at techweekly.com",
+    "timestamp": "2024-11-20T08:15:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_003",
+    "sender": "sarah.smith@client.com",
+    "sender_name": "Sarah Smith",
+    "subject": "Meeting Request: Q1 Planning",
+    "body": "Hi,\n\nI'd like to schedule a meeting to discuss Q1 planning for our project. Would next Tuesday at 2 PM work for you?\n\nPlease let me know your availability.\n\nBest regards,\nSarah",
+    "timestamp": "2024-11-20T10:45:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_004",
+    "sender": "no-reply@promotions.com",
+    "sender_name": "Special Offers",
+    "subject": "EXCLUSIVE: 70% OFF - Limited Time Only!",
+    "body": "CONGRATULATIONS! You've been selected for our EXCLUSIVE sale!\n\nClick here NOW to claim your discount!\n\nACT NOW!",
+    "timestamp": "2024-11-20T07:22:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_005",
+    "sender": "hr@company.com",
+    "sender_name": "HR Department",
+    "subject": "Reminder: Complete Your Annual Training by Nov 30",
+    "body": "Dear Team Member,\n\nThis is a reminder to complete your mandatory annual compliance training before November 30th, 2024.\n\nTo complete: Log into HR portal, navigate to 'My Training', complete all modules.\n\nThank you,\nHR Team",
+    "timestamp": "2024-11-19T14:30:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_006",
+    "sender": "mike.johnson@vendor.com",
+    "sender_name": "Mike Johnson",
+    "subject": "Invoice #12345 - Payment Due",
+    "body": "Hello,\n\nPlease find attached Invoice #12345 for services rendered in October 2024.\n\nAmount Due: $5,000\nDue Date: December 5, 2024\n\nPlease process payment at your earliest convenience.\n\nBest,\nMike Johnson",
+    "timestamp": "2024-11-19T11:20:00Z",
+    "has_attachments": true
+  },
+  {
+    "id": "email_007",
+    "sender": "notifications@github.com",
+    "sender_name": "GitHub",
+    "subject": "[Repository] New Pull Request: Feature/authentication",
+    "body": "A new pull request has been opened in your repository.\n\nPull Request #42: Add OAuth authentication\nAuthor: @developer123\n\nReview requested from: @you",
+    "timestamp": "2024-11-19T16:45:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_008",
+    "sender": "team-lead@company.com",
+    "sender_name": "Emily Chen",
+    "subject": "Team Standup - Daily Update",
+    "body": "Hi Team,\n\nQuick standup summary:\n\nCompleted: API integration\nIn Progress: Frontend dashboard\nBlockers: Waiting for design assets\n\nNext standup: Tomorrow 9 AM",
+    "timestamp": "2024-11-19T17:30:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_009",
+    "sender": "security@company.com",
+    "sender_name": "IT Security",
+    "subject": "URGENT: Security Patch Required",
+    "body": "URGENT SECURITY NOTICE\n\nA critical security vulnerability has been identified. All employees must install the security patch immediately.\n\nAction Required:\n1. Save all work\n2. Install Update KB5032190\n3. Restart computer\n\nDeadline: Today, 6 PM",
+    "timestamp": "2024-11-20T13:00:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_010",
+    "sender": "info@conference2024.com",
+    "sender_name": "TechConf 2024",
+    "subject": "Your TechConf 2024 Registration Confirmation",
+    "body": "Thank you for registering for TechConf 2024!\n\nEvent Details:\nDate: March 15-17, 2025\nLocation: San Francisco Convention Center\nBadge ID: TC2024-8472\n\nWe look forward to seeing you!",
+    "timestamp": "2024-11-18T10:00:00Z",
+    "has_attachments": true
+  },
+  {
+    "id": "email_011",
+    "sender": "customer-support@service.com",
+    "sender_name": "Customer Support",
+    "subject": "Re: Ticket #7834 - Issue Resolved",
+    "body": "Hello,\n\nYour support ticket #7834 has been resolved.\n\nIssue: Login authentication error\nResolution: Password reset link sent\n\nIf issues persist, please reply.\n\nThank you,\nSupport Team",
+    "timestamp": "2024-11-18T15:20:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_012",
+    "sender": "alex.williams@partner.com",
+    "sender_name": "Alex Williams",
+    "subject": "Partnership Proposal - Let's Collaborate",
+    "body": "Dear Partner,\n\nI'm reaching out to discuss a potential partnership between our companies.\n\nWe believe there's strong synergy and would love to explore collaboration.\n\nWould you be available for a call next week?\n\nBest regards,\nAlex Williams",
+    "timestamp": "2024-11-18T09:30:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_013",
+    "sender": "newsletter@marketing.com",
+    "sender_name": "Marketing Insights",
+    "subject": "10 Tips to Boost Your Email Marketing ROI",
+    "body": "Hi there!\n\nDiscover how top marketers achieve 300% ROI:\n\n1. Personalization techniques\n2. A/B testing\n3. Optimal send times\n\nRead the full article on our blog.\n\nHappy Marketing!",
+    "timestamp": "2024-11-17T12:00:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_014",
+    "sender": "boss@company.com",
+    "sender_name": "David Martinez - CEO",
+    "subject": "Q4 Performance Review Scheduled",
+    "body": "Hi,\n\nYour Q4 performance review is scheduled for Monday, December 4th at 3 PM in Conference Room B.\n\nPlease prepare:\n- Self-assessment\n- Project accomplishments\n- Goals for next quarter\n\nLet me know if this doesn't work.\n\nBest,\nDavid",
+    "timestamp": "2024-11-17T16:45:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_015",
+    "sender": "events@company.com",
+    "sender_name": "Events Team",
+    "subject": "Holiday Party 2024 - RSVP Required",
+    "body": "You're Invited!\n\nJoin us for our Annual Holiday Party!\n\nDate: December 20, 2024\nTime: 6 PM - 10 PM\nLocation: Downtown Hotel Ballroom\n\nPlease RSVP by December 10th.\n\nSee you there!",
+    "timestamp": "2024-11-17T10:15:00Z",
+    "has_attachments": false
+  }
+]
